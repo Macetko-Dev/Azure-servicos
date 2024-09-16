@@ -88,4 +88,4 @@ Essas são apenas algumas das principais categorias e serviços disponíveis no 
 
 **Referências:**
 - [Portal do Microsoft Azure](https://portal.azure.com/)
-- [Documentação do Azure](https://docs.microsoft.com/pt-br/azure/)
+- [Documentação do Azure](https://docs.microsoft.com/pt-br/azure/) 
